@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662699573533",
+    "project_id": "gestion-taches-bf201",
+    "storage_bucket": "gestion-taches-bf201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662699573533:android:6c1eed5060c171ad8c61f4",
+        "android_client_info": {
+          "package_name": "com.example.gestion_taches"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUmPZsBpfVd3dTXu_3PpsfI9wZUdV8Kgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
